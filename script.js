@@ -12,7 +12,7 @@ setTimeout(getData, 2500);
 
 function getData() {
     header.innerHTML = '<img src="https://images.unsplash.com/photo-1613237636790-6a749126d088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">';
-    title.innerHTML = 'Use this card on your website!';
+    title.innerHTML = 'Placeholder Card';
     excerpt.innerHTML = 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque, vitae!';
     profile_img.innerHTML = '<img src="https://randomuser.me/api/portraits/women/21.jpg" alt="">';
     name.innerHTML = 'Jane Doe';
